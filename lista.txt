@@ -1,0 +1,7 @@
+Preciso comprar:
+
+Maçã
+Banana
+Abacaxi
+
+Essa é minha lista de compras.
