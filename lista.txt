@@ -1,8 +1,8 @@
 Preciso comprar:
 
-Banana
-Abacaxi
-Kiwi
-Melância
+BANANA
+ABACAXI
+KIWI
+MELÂNCIA
 
 Essa é minha lista de compras.
