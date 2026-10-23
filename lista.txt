@@ -2,6 +2,7 @@ Preciso comprar:
 
 Banana
 Abacaxi
+Kiwi
 Melância
 
 Essa é minha lista de compras.
